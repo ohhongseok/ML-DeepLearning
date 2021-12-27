@@ -1,4 +1,4 @@
-# 앙상블 학습을 들어가기 전 보면 좋은 사이트
+# 앙상블 학습(5-3)을 들어가기 전 보면 좋은 사이트
 
 http://www.dinnopartners.com/__trashed-4/
 
